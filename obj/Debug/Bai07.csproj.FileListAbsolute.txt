@@ -1,0 +1,11 @@
+C:\WinForm\ThucHanh3\bin\Debug\ThucHanh3.exe.config
+C:\WinForm\ThucHanh3\bin\Debug\ThucHanh3.exe
+C:\WinForm\ThucHanh3\bin\Debug\ThucHanh3.pdb
+C:\WinForm\ThucHanh3\obj\Debug\Bai07.csproj.AssemblyReference.cache
+C:\WinForm\ThucHanh3\obj\Debug\Bai07.csproj.SuggestedBindingRedirects.cache
+C:\WinForm\ThucHanh3\obj\Debug\ThucHanh3.Bai07.resources
+C:\WinForm\ThucHanh3\obj\Debug\ThucHanh3.Properties.Resources.resources
+C:\WinForm\ThucHanh3\obj\Debug\Bai07.csproj.GenerateResource.cache
+C:\WinForm\ThucHanh3\obj\Debug\Bai07.csproj.CoreCompileInputs.cache
+C:\WinForm\ThucHanh3\obj\Debug\ThucHanh3.exe
+C:\WinForm\ThucHanh3\obj\Debug\ThucHanh3.pdb

@@ -1,0 +1,11 @@
+C:\WinForm\ThucHanh3\Bai03\bin\Debug\Bai03.exe.config
+C:\WinForm\ThucHanh3\Bai03\bin\Debug\Bai03.exe
+C:\WinForm\ThucHanh3\Bai03\bin\Debug\Bai03.pdb
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.Bai03.resources
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.exe
+C:\WinForm\ThucHanh3\Bai03\obj\Debug\Bai03.pdb
