@@ -20,9 +20,37 @@ create table StudentRecords(
 
 --Fix database :
 alter table Students alter column gender varchar(10) not null 
-ALTER DATABASE Students COLLATE Vietnamese_CI_AS
- 
+update Subjects
+set Name = 'Co So Du Lieu'
+where MaMH='MH01'
 
+update Subjects
+set Name = 'Lap Trinh Huong Doi Tuong'
+where MaMH='MH02'
+
+update Subjects
+set Name = 'Nhap Mon Lap Trinh'
+where MaMH='MH03'
+
+update Subjects
+set Name = 'Lap Trinh Truc Quan'
+where MaMH='MH04'
+
+update Subjects
+set Name = 'He Dieu Hanh'
+where MaMH='MH05'
+
+update Subjects
+set Name = 'Nhap Mon Mang May Tinh'
+where MaMH='MH06'
+
+update Students
+set Name = 'Ho Dinh Manh', Major='Ky Thuat Phan Mem'
+where MSSV='St1'
+
+update Students
+set Name = 'Nguyen Van A', Major='Ky Thuat May Tinh'
+where MSSV='St2'
 --
 insert into Subjects values('MH01','Cơ sở dữ liệu')
 insert into Subjects values('MH02','Lập trình hướng đối tượng')
@@ -54,3 +82,7 @@ from Students s, StudentRecords sr
 where s.MSSV = sr.MSSV
 group by s.MSSV, Name, Major, Gender
 
+--Hiển thị Students and Subjects
+select *
+from Students st, StudentRecords sr, Subjects sb
+where st.MSSV=sr.MSSV and sr.MaMH=sb.MaMH
